@@ -1,0 +1,39 @@
+# Build
+build/
+build-*/
+out/
+cmake-build-*/
+generated/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+.idea/
+
+# Compiled
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.pdb
+*.ilk
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.cmake
+install_manifest.txt
+CTestTestfile.cmake
+Testing/
+
+# OS
+.DS_Store
+Thumbs.db
